@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "4730ce77dc5f8e40",
+    "type": "split",
+    "children": [
+      {
+        "id": "98fc44f74f93667b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e785c8cd8b0321d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Вычисление арифметических выражений.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вычисление арифметических выражений"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "516266b1df59625f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f385380814544986",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9927ede59d4d3e5f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f390219f666f1934",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "e8e6832a57e39d4f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "b2fc3031a428db7e",
+    "type": "split",
+    "children": [
+      {
+        "id": "e6adeb87df7b2461",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "097b2e0f361a6f33",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "030a657c7f90bd1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "1bcefb5e87cebe44",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "16684cd24e2341d0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "3e785c8cd8b0321d",
+  "lastOpenFiles": [
+    "Homeworks/3/J.py",
+    "Homeworks/3/I.py",
+    "Homeworks/3/H.py",
+    "Homeworks/3/G.py",
+    "Homeworks/3/F.py",
+    "Минимум в окне.md",
+    "Homeworks/3/E.py",
+    "Рекурсия.md",
+    "Homeworks/3/C.py",
+    "Homeworks/C.py",
+    "Homeworks/3/B.py",
+    "Assets/Screenshot 2024-11-12 at 17.42.04.png",
+    "Лекция 3.md",
+    "Задачи на деки.md",
+    "Задачи на очереди.md",
+    "Assets/Screenshot 2024-11-12 at 17.35.48.png",
+    "Деки.md",
+    "Кольцевой буфер.md",
+    "Задачи на стеки.md",
+    "Задача про банер (Нахождение ближайшего меньшего).md",
+    "Assets/Screenshot 2024-11-12 at 16.59.12.png",
+    "Вычисление арифметических выражений.md",
+    "Homeworks/3/D.py",
+    "Homeworks/D.py",
+    "Assets/Screenshot 2024-11-09 at 01.15.45.png",
+    "Assets/Screenshot 2024-11-08 at 19.10.31.png",
+    "Assets/Screenshot 2024-11-08 at 19.10.04.png",
+    "Правильная скобочная последовательность с различными видами скобок.md",
+    "Assets/Screenshot 2024-11-08 at 19.01.42.png",
+    "Лекция 1.md",
+    "Лекция 2.md",
+    "Количество отрезков, сумма чисел в которых равна Х.md",
+    "Задачи на префиксные суммы.md",
+    "Количество отрезков, сумма чисел в которых равна 0.md",
+    "Random in Python.md",
+    "Поиск максимальной подстроки, в которой каждый символ встречается не более k раз.md",
+    "Реализация RSQ.md",
+    "Нахождение суммы чисел в промежутке.md",
+    "Поиск пар чисел A,B в отсортированном массиве.md",
+    "Задачи на два указателя.md",
+    "Assets/Screenshot 2024-11-01 at 19.38.42.png",
+    "Merge.md",
+    "Assets/Screenshot 2024-11-01 at 19.08.33.png",
+    "Задача о футболистах.md",
+    "Assets/PEWEHNE 2.png",
+    "Нахождение количества нулей в промежутке.md"
+  ]
+}
